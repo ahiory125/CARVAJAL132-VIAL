@@ -19,11 +19,14 @@ El aplicativo tendrá la opción de reportar estos fallos a través de fotos, in
 Esta información estará disponible para los entes de control y por ende ellos realizaran las reparaciones necesarias.
 
 **Imagenes del WireFrame**
+![Image of WireFrame](https://s17.aconvert.com/convert/p3r68-cdx67/fxfux-az03t.gif)
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+
+Lista de Tareas
+- [ ] Creacion de WireFrame aplicacion Vial
+- [ ] Creacion de landing page
+- [ ] Comenzar maqutado de la aplicacion Creaacion de las paginas de la aplicacion en HTML
+- [ ] 
 
 
 
