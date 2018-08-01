@@ -22,11 +22,15 @@ Esta información estará disponible para los entes de control y por ende ellos 
 ![Image of WireFrame](https://s17.aconvert.com/convert/p3r68-cdx67/fxfux-az03t.gif)
 
 
-Lista de Tareas
+**Lista de Tareas**
 - [ ] Creacion de WireFrame aplicacion Vial
+- [ ] Creacion de Logotipo.
+- [ ] Creacion de Guia de Estilos.
+- [ ] Documentacion de requerimientos funcionales y no funcionales.
+- [ ] Documentacion casos de uso de funcionalidad.
 - [ ] Creacion de landing page
-- [ ] Comenzar maqutado de la aplicacion Creaacion de las paginas de la aplicacion en HTML
-- [ ] 
+- [ ] Comenzar maqutado de la aplicacion
+- [ ] Desarrollo aplicativo.
 
 
 
