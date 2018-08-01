@@ -18,7 +18,14 @@ Aplicación móvil que le permitiría a los transeúntes, motociclistas, ciclist
 El aplicativo tendrá la opción de reportar estos fallos a través de fotos, indicando la dirección o a través de geolocalización.
 Esta información estará disponible para los entes de control y por ende ellos realizaran las reparaciones necesarias.
 
-esta es una prueba de imagen
-![Image of Yaktocat] (https://1drv.ms/u/s!ApzoJ64N3tGpgZ1nKIrACJDeVhcRPw)
+**Imagenes del WireFrame**
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+
+
 
 
