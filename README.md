@@ -19,7 +19,7 @@ El aplicativo tendrá la opción de reportar estos fallos a través de fotos, in
 Esta información estará disponible para los entes de control y por ende ellos realizaran las reparaciones necesarias.
 
 **Imagenes del WireFrame**
-![Image of WireFrame](https://s17.aconvert.com/convert/p3r68-cdx67/fxfux-az03t.gif)
+![Image of WireFrame](https://i.imgur.com/PqVep8j.gif)
 
 
 **Lista de Tareas**
