@@ -1,5 +1,5 @@
 Logo
-![Image of WireFrame](https://imgur.com/Bn4meXx)
+![Image of WireFrame](https://i.imgur.com/Bn4meXx.png)
 
 
 # CARVAJAL132-VIAL
