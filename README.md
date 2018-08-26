@@ -14,6 +14,17 @@
 
 # Introduccion
 
+**PLanteamiento del problema** 
+>gregar texto
+
+**Descripcion del problema**
+>greagar texto
+
+**Pregunta de investigacion**
+>agregar texto
+
+**Justificacion**
+>agregar texto
 
 **Reto:**
 Como podemos denunciar de manera rápida y eficiente la condición de las vías de la localidad de Bosa.
