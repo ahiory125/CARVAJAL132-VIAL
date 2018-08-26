@@ -7,7 +7,7 @@
 
 **Conformado por:** 
 
-Deisy Solano
+>Deisy Solano
 _Esneyder Sanchez_
 *Edinson Barraza*
 Alfredo Garcia
