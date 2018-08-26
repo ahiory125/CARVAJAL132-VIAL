@@ -33,10 +33,10 @@
 
 **Objetivos Especificos**
 
-* **Canal de comunicacion** Crear un canal de comunicación entre el ciudadano del común y los entes de control de la malla vial.
-* 
-
-
+* Crear un canal de comunicación entre el ciudadano del común y los entes de control de la malla vial.
+* Mantener la malla vial de la localidad de bosa que se encuentra en mal estado.
+* Atención oportuna de situaciones imprevistas que impidan la movilidad.
+* Mejoramiento del flujo vehicular en la localidad.
 
 
 
