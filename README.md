@@ -24,7 +24,7 @@
 >¿Cómo crear un canal entre la ciudadanía y la alcaldía para hacer más eficiente la reparación de la malla vial?
 
 **Justificacion**
->agregar texto
+>La ciudadanía necesita una canal de comunicación con los entes de control de la malla vial ,para lograr una reparación mas eficiente y evitar el muchos de los trancones, ya que la planeación vial no fue muy adecuada generando vías de un solo carril ,con lo cual un hueco puede impactar drásticamente en el flujo de vehículos ,no solo ayudando al ciudadano sino a la alcaldía invirtiendo de una manera mas eficiente los recursos destinados para ello.
 
 **Reto:**
 Como podemos denunciar de manera rápida y eficiente la condición de las vías de la localidad de Bosa.
