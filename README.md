@@ -46,7 +46,7 @@
 >El presente estudio es de carácter correlacional, “trabaja sobre cómo se relacionan o vinculan los aportes por parte de la ciudadanía, al levantamiento de informacion sobre el estado de las vias y la ejecucion de las reparaciones correspondientes, a través de herramientas informáticas.
 
 **Metodologia de investigacion**
->
+>La presente investigación es de Tipo Comparativo, ya que es un procedimiento que consiste fundamentalmente en establecer la comparación de herramientas de uso libre, como la encuesta e incursión de investigadores en tareas específicas , desde enfoques generales que impacten a la institución a nivel de efectividad de sus funciones, dentro del ámbito tecnológico y participación ciudadana.
 
 **Imagenes del WireFrame**
 ![Image of WireFrame](https://i.imgur.com/PqVep8j.gif)
