@@ -5,6 +5,12 @@
 
 >Aplicacion diseñada y desarrollada por parte de estudiantes del talento de Fedesoft , con el fin de incentivar a la ciudadanía a participar activamente en el reporte de huecos y demas problemas relacionados con movilidad de la localidad de Bosa 
 
+**Actores Clave**
+* MinTIC.
+* Secretaaria Distrial de Movilidad.
+* Sistema de transporte de la localidad.
+* Ciudadania.
+
 # Integrantes Y Roles 
 
 **Integrantes** | **Roles**
