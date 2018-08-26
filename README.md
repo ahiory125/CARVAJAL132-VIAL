@@ -32,6 +32,7 @@
 >Crear un prototipo de aplicación para lograr reportar huecos y demás fallas en la vía.
 
 **Objetivos Especificos**
+
 *item 1
 *item 2
 -item 3
