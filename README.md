@@ -9,16 +9,13 @@
 
 **Integrantes** | **Roles**
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Deisy Solano | Rol
+Esneyder Sanchez | Rol
+Edinson Barraza | Rol
+Alfredo Garcia | Rol
 
 
-**Integrantes**
 
->Deisy Solano,
->Esneyder Sanchez,
->Edinson Barraza,
->Alfredo Garcia.
 
 # Introduccion
 
