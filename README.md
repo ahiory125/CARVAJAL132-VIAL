@@ -10,15 +10,15 @@
 >Deisy Solano,
 >Esneyder Sanchez,
 >Edinson Barraza,
->Alfredo Garcia,
+>Alfredo Garcia.
 
 # Introduccion
 
-**PLanteamiento del problema** 
->gregar texto
+**Planteamiento del problema** 
+>La localidad de bosa no tiene una manera rápida y eficiente para denunciar  la condición de las vías , tampoco un túnel de comunicación entre el ciudadano y la alcaldía para tratar a las mismas.
 
 **Descripcion del problema**
->greagar texto
+>Durante el desarrollo vial de la localidad de Bosa se ha dejado de lado un planteamiento estructural adecuado para la evolución de ella, por lo tanto se generan muchos inconformismos , lo que busca la aplicación es conectar a la alcaldía con el ciudadano del común para la recolección de información sobre el estado de las vías , con ello se invierten los recursos de una manera mas eficiente ,con el fin de tener mejores corredores viales y así un transito mas acelerado pese a las estrechas calles.
 
 **Pregunta de investigacion**
 >agregar texto
