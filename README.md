@@ -8,8 +8,8 @@
 **Conformado por:** 
 
 *Deisy Solano
-Esneyder Sanchez
-Edinson Barraza
+_Esneyder Sanchez_
+*Edinson Barraza*
 Alfredo Garcia*
 
 **Reto:**
