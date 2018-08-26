@@ -29,7 +29,7 @@
 # Objetivos
 
 **Objetivo Gneral**
->agregar texto
+>Crear un prototipo de aplicación para lograr reportar huecos y demás fallas en la vía.
 
 **Objetivos Especificos**
 >agregar texto
