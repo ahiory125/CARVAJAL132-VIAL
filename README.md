@@ -33,9 +33,9 @@
 
 **Objetivos Especificos**
 
-* item 1
-* item 2
-- item 3
+* **Canal de comunicacion** Crear un canal de comunicación entre el ciudadano del común y los entes de control de la malla vial.
+* 
+
 
 
 
