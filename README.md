@@ -72,6 +72,7 @@ Alfredo Garcia | Rol
 - [x] Creacion de landing page
 - [ ] Comenzar maqutado de la aplicacion
 - [ ] Desarrollo aplicativo.
+- [ ] Modelo entidad relacion.
 
 
 
