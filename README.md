@@ -1,4 +1,4 @@
-![Image of WireFrame](https://i.imgur.com/KimHEPx.png)
+![Image of WireFrame](https://i.imgur.com/dOmpJHr.png)
 
 
 # PORYECTO CARVAJAL132-VIAL
