@@ -42,6 +42,10 @@
 >Diseñar una aplicación prototipo de reporte de malla vial en mal estado, con funcionalidades básicas como lo son conexión a base de datos y guardado de información de la misma a través de una app y consulta de la misma en un portal web.
 
 # Metodologia
+**Tipo de investigacion**
+>El presente estudio es de carácter correlacional, “trabaja sobre cómo se relacionan o vinculan los aportes por parte de la ciudadanía, al levantamiento de informacion sobre el estado de las vias y la ejecucion de las reparaciones correspondientes, a través de herramientas informáticas.
+
+**Metodologia de investigacion**
 >
 
 **Imagenes del WireFrame**
