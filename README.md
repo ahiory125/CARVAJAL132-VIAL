@@ -28,7 +28,7 @@
 
 # Objetivos
 
-**Objetivo Gneral**
+**Objetivo General**
 >Crear un prototipo de aplicación para lograr reportar huecos y demás fallas en la vía.
 
 **Objetivos Especificos**
