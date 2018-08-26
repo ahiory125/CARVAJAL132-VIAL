@@ -7,10 +7,10 @@
 
 **Conformado por:** 
 
-*Deisy Solano
+Deisy Solano
 _Esneyder Sanchez_
 *Edinson Barraza*
-Alfredo Garcia*
+Alfredo Garcia
 
 **Reto:**
 Como podemos denunciar de manera rápida y eficiente la condición de las vías de la localidad de Bosa.
