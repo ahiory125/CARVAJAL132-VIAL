@@ -3,14 +3,14 @@
 
 # PORYECTO CARVAJAL132-VIAL
 
-**Grupo aplicación Vial**
+>Aplicacion diseñada y desarrollada por parte de estudiantes del talento de Fedesoft , con el fin de incentivar a la ciudadanía a participar activamente en el reporte de huecos y demas problemas relacionados con movilidad de la localidad de Bosa 
 
 **Conformado por:** 
 
 >Deisy Solano
-_Esneyder Sanchez_
-*Edinson Barraza*
-Alfredo Garcia
+>Esneyder Sanchez
+>Edinson Barraza
+>Alfredo Garcia
 
 **Reto:**
 Como podemos denunciar de manera rápida y eficiente la condición de las vías de la localidad de Bosa.
