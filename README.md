@@ -39,7 +39,7 @@
 * Mejoramiento del flujo vehicular en la localidad.
 
 # Alcance 
-
+>Diseñar una aplicación prototipo de reporte de malla vial en mal estado, con funcionalidades básicas como lo son conexión a base de datos y guardado de información de la misma a través de una app y consulta de la misma en un portal web.
 
 **Reto:**
 Como podemos denunciar de manera rápida y eficiente la condición de las vías de la localidad de Bosa.
