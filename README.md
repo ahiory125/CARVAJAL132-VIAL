@@ -5,6 +5,12 @@
 
 >Aplicacion diseñada y desarrollada por parte de estudiantes del talento de Fedesoft , con el fin de incentivar a la ciudadanía a participar activamente en el reporte de huecos y demas problemas relacionados con movilidad de la localidad de Bosa 
 
+# Integrantes
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 **Integrantes**
 
 >Deisy Solano,
