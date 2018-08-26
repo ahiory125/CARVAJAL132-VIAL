@@ -8,8 +8,11 @@
 **Integrantes**
 
 >Deisy Solano.
+
 >Esneyder Sanchez.
+
 >Edinson Barraza.
+
 >Alfredo Garcia.
 
 **Reto:**
