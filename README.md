@@ -7,10 +7,10 @@
 
 **Integrantes**
 
->Deisy Solano
->Esneyder Sanchez
->Edinson Barraza
->Alfredo Garcia
+>Deisy Solano.
+>Esneyder Sanchez.
+>Edinson Barraza.
+>Alfredo Garcia.
 
 **Reto:**
 Como podemos denunciar de manera rápida y eficiente la condición de las vías de la localidad de Bosa.
