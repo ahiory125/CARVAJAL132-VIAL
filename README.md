@@ -32,7 +32,13 @@
 >Crear un prototipo de aplicación para lograr reportar huecos y demás fallas en la vía.
 
 **Objetivos Especificos**
->agregar texto
+>*item 1
+*item 2
+*item 3
+
+
+
+
 
 **Reto:**
 Como podemos denunciar de manera rápida y eficiente la condición de las vías de la localidad de Bosa.
