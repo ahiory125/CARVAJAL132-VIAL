@@ -15,7 +15,6 @@
 
 **Integrantes** | **Roles**
 ------------ | -------------
-Deisy Solano | Rol
 Esneyder Sanchez | Rol
 Edinson Barraza | Rol
 Alfredo Garcia | Rol
