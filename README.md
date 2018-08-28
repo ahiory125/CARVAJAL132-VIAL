@@ -1,7 +1,7 @@
 ![Image of WireFrame](https://i.imgur.com/dOmpJHr.png)
 
 
-# PORYECTO CARVAJAL132-VIAL
+# PROYECTO CARVAJAL132-VIAL
 
 >Aplicacion diseñada y desarrollada por parte de estudiantes del talento de Fedesoft , con el fin de incentivar a la ciudadanía a participar activamente en el reporte de huecos y demas problemas relacionados con movilidad de la localidad de Bosa 
 
