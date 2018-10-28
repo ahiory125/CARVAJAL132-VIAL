@@ -15,9 +15,9 @@
 
 **Integrantes** | **Roles**
 ------------ | -------------
-Esneyder Sanchez | Rol
-Edinson Barraza | Rol
-Alfredo Garcia | Rol
+Esneyder Sanchez | Backend
+Edinson Barraza | FrontEnd
+Alfredo Garcia | FrontEnd
 
 
 
@@ -44,7 +44,7 @@ Alfredo Garcia | Rol
 **Objetivos Especificos**
 
 * Crear un canal de comunicación entre el ciudadano del común y los entes de control de la malla vial.
-* Mantener la malla vial de la localidad de bosa que se encuentra en mal estado.
+* Mantener la malla vial de la localidad de bosa en en buen estado.
 * Atención oportuna de situaciones imprevistas que impidan la movilidad.
 * Mejoramiento del flujo vehicular en la localidad.
 
@@ -65,6 +65,7 @@ Alfredo Garcia | Rol
 
 
 # Imagen landing Page 
+Landing page (http://vial.byethost8.com/)
 
 ![Image of WireFrame](https://i.imgur.com/4xtwtHg.gif)
 
